@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android-HW-4.3</string>
+    <string name="main_activity_name">Сроки задачи</string>
+    <string name="btn_task_ok">Ок</string>
+    <string name="btn_start_date">Дата начала задачи</string>
+    <string name="btn_end_date">Дата окончания задачи</string>
+    <string name="btn_task_ok_err">Временной интервал введен неверно!</string>
+    <string name="btn_date_not_selected">Временной интервал не выбран!</string>
 </resources>
